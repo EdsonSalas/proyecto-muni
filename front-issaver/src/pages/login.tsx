@@ -56,7 +56,7 @@ const Login = () => {
       <NextImage
         className="absolute inset-0 w-full h-full object-cover object-top -z-10"
         fill
-        src={'/img/proyect/bgdefault.jpeg'}
+        src={'/img/proyect/back-image-login.jpg'}
         priority
         alt="bg_default"
       />
@@ -83,7 +83,7 @@ const Login = () => {
           data-aos="fade-up"
           data-aos-delay="320"
         >
-          GRI - GRU
+          ISSAVER
         </h3>
         <div
           className="w-[90%] max-w-[420px] bg-white rounded p-6"
@@ -96,7 +96,7 @@ const Login = () => {
             autoComplete="off"
           >
             <h3 className="text-center text-gray-500">
-              Inicia sesión en su cuenta
+              Ingrese sus datos para acceder
             </h3>
             <TextInput
               className="p-2 rounded-lg outline-none w-full focus:border-sky-700 border-2 border-gray-200 bg-white "
