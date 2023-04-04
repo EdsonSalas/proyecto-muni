@@ -71,7 +71,7 @@ const Login = () => {
           // data-aos="fade-up"
         >
           <NextImage
-            src="/img/proyect/logogoreu.jpg"
+            src="/img/proyect/logo-issaver.jpg"
             alt="logo"
             className="absolute w-full h-full rounded-md"
             priority
